@@ -1,15 +1,5 @@
 # hello-world
 
-just experienting
-
-
-
-
-
-class hello world
-{
- public static void main (String args[])
- {
-  System.out.println("hey there");
- }
-}
+hey there, 
+i go by the name biryani and  am extremely awkward and i am still learning
+ok now bye
